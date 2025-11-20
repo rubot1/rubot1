@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Boris Rusev, a backend software developer
+
+If an idea pops into my head i'll build it
+
 <!--
 **rubot1/rubot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
